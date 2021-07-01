@@ -1,6 +1,6 @@
 ## Acquiring Data
 1. Acquire data 
-a. Some data provided (Data.Log10LifetimeRisk.Log10TotaStemCellDivisions.txt) from https://science.sciencemag.org/content/371/6535/1245?utm_campaign=toc_sci-mag_2021-03-18&et_rid=681382821&et_cid=3704890
+- Some data provided (Data.Log10LifetimeRisk.Log10TotaStemCellDivisions.txt) from https://science.sciencemag.org/content/371/6535/1245?utm_campaign=toc_sci-mag_2021-03-18&et_rid=681382821&et_cid=3704890
 
 ## Data Analyses
 1. Import data into a dataset

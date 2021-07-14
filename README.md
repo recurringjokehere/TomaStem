@@ -1,5 +1,3 @@
-# Procedure
-
 ## Purpose
 - This repository reanalyses data from a _Science_ article by Tomasetti and Vogelstein, a pdf of which has been provided.
     - The article proposes that the lifetime risk of cancer is correlated with, among other factors, the total amount of stem cell divisions of a certain type of tissue.

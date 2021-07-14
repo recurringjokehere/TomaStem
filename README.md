@@ -19,7 +19,7 @@
 3. Plotted both log-transformed values and raw values of lifetime cancer risk and total stem cell divisions in histograms (cells 2, 3, and 4).
     - This was done to determine whether raw values or log-transformed values better resembled a normal distribution.
         - For correlation tests, it is desirable that data resemble a normal distribution as closely as possible.
-    - Extra statistics serving a similar purpose are provided in cell 5.
+    - Extra statistics serving a similar purpose are calculated in cell 5.
 4. Plotted the data in a scatterplot and performed linear regression (cell 6, lines 1-17).
 5. Calculated the coefficient of determination and slope of the linear regression model (cell 6, lines 19-20).
 6. Calculated the R- and P-values of the linear regression model (cell 7).

@@ -1,5 +1,5 @@
 ## Purpose
-- This repository has a similar purpose to that of a 1996 _Science_ article by Tomasetti and Vogelstein.
+- This repository reanalyzes data from a 1996 _Science_ article by Tomasetti and Vogelstein titled "Variation in cancer risk among tissues can be explained by the number of stem cell divisions".
     - The article proposes that the lifetime risk of cancer is correlated with, among other factors, the total amount of stem cell divisions of a certain type of tissue.
 - The overall purpose of this repository is to explore whether or not there is a correlation between total stem cell divisions and lifetime cancer risk in the provided data.
     - Hypothesis: the lifetime risk of cancer is correlated with the total amount of stem cell divisions of a certain type of tissue.
